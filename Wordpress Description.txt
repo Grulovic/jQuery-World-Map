@@ -1,0 +1,44 @@
+////////////////////////////////////////////////////////////////////////////////////////////
+//Stefan Grulovic (20150280) - CS306 Final Project (Wordpress)
+////////////////////////////////////////////////////////////////////////////////////////////
+
+http://csamaras.com/grulovic/
+
+////////////////////////////////////////////////////////////////////////////////////////////
+-jQuery UI:
+
+	For the jQuery UI i have used datepicker for the form birthday input in order to make date chosing easier.
+	
+	I have also used a custom theme made on the jQuery UI Themeroller (http://jqueryui.com/themeroller/).
+	
+	Besides the validation in form_validation.js, the UI options are used also for the validation. Where to user is not allowed to chose a date bigger than todays date, with combinations on on click option that it removes the date written, the user is error trapped.
+
+////////////////////////////////////////////////////////////////////////////////////////////
+-Wordpress:
+	
+	The theme used for the wordpress site is Avior (Version: 0.1.8) made by MotoPress.
+	The widgets used are:
+
+	Sidebar:
+
+		-Search -> in order to search the website if it was filled with bunch of posts.
+	
+		-Plugin: Ultimate Social Media Icons -> where the links are located to the respective platforms
+											-> also the plugin allows to add share buttons on the end of each post which would benifit the owner of website as the people who are following the website would be able to share with thir friend on the respective platforms they share
+		-Image -> Displaying to logo to the reader on the side making the have more chance to remember the logo and have the webiste 
+				  engraved in his head
+	
+		-Calendar -> as a representitive of when the posts are posted and in order if someone is follwing the website religiously
+					 to immediatly go where they left of with their previous reading
+	
+		-Recent posts -> to display the last 5 posts posted to a user which may spark interest which would make them read the post and 				 	 continue being on the website 
+	
+		-Gallery -> in order to display the continents and where the points are located, when clicked on the continent image the user is 			 taken to the image and short description which the user would be presented on the application when hovering over the 
+					interactive map
+
+	Footer:
+
+		-Plugin: Ultimate Social Media Icons -> with again the social media icons on the left and subscription form on the right where 
+												the user can subscribe to the website and get notified with activities of the website.
+
+////////////////////////////////////////////////////////////////////////////////////////////
